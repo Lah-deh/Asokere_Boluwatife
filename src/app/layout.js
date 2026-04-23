@@ -29,8 +29,8 @@ export const metadata = {
     images: ["/og-image.png"],
   },
   verification: {
-    google: "6a0f20f6c2efe122",
-  },
+  google: "xDIAaWHI-omkUrDqQlBsgCcWfbRbmExAkKlkO3kywEc",
+},
 }
 
 
