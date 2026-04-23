@@ -39,12 +39,12 @@ export default function Header() {
   return (
     <header className="flex items-center justify-between px-5 py-4 relative bg-transparent">
 
-      {/* Logo */}
+      
       <div className="text-white font-bold text-xl">
         Web Developer <span className="text-[#cf1247]">/</span>
       </div>
 
-      {/* Hamburger */}
+      
       <button
         className="text-white text-2xl md:hidden z-50"
         onClick={() => setOpen(!open)}
@@ -52,7 +52,7 @@ export default function Header() {
         {open ? "✕" : "☰"}
       </button>
 
-      {/* Overlay */}
+    
       {open && (
         <div
           className="fixed inset-0 bg-black/60 z-40 md:hidden"
@@ -60,7 +60,7 @@ export default function Header() {
         />
       )}
 
-      {/* Nav */}
+    
       <nav
         className={`
           fixed top-0 left-0 h-full w-[70%] bg-black z-50
@@ -78,9 +78,6 @@ export default function Header() {
           Experience
         </a>
 
-        <a href="#formation" onClick={handleClick} className={linkClass("formation")}>
-          Formation
-        </a>
 
         <a href="#projects" onClick={handleClick} className={linkClass("projects")}>
           Projects
