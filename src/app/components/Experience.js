@@ -68,7 +68,7 @@ const Experience = () => {
               <ul className="flex flex-col gap-2">
                 {exp.points.map((point, j) => (
                   <li key={j} className="flex gap-2 text-gray-400 text-sm leading-relaxed">
-                    <span className="text-[#cf1247] mt-1 shrink-0">▸</span>
+                    <span className="text-[#cf1247] mt-1 shrink-0">▸ </span>
                     {point}
                   </li>
                 ))}

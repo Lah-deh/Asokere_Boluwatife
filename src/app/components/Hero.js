@@ -97,7 +97,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="/Asokere Success Cv.pdf"
+              href="/Asokere_Success_Cv.pdf"
               download
               className="col-span-2 lg:col-span-1 flex items-center justify-center gap-2 border border-white/20 text-gray-400 font-bold px-4 py-2.5 rounded-full text-sm hover:border-white/50 hover:text-white transition-colors"
             >
@@ -120,7 +120,7 @@ const Hero = () => {
               fill
               priority
               className="object-cover"
-              
+
             />
           </div>
         </motion.div>

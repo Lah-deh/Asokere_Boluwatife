@@ -96,7 +96,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="/Asokere Success Cv.pdf"
+            href="/Asokere_Success_Cv.pdf"
             download
             className="flex items-center gap-2 border border-white/20 text-gray-400 font-bold px-6 py-3 rounded-full text-sm hover:border-white/50 hover:text-white transition-colors"
           >

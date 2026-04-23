@@ -41,7 +41,7 @@ export default function Header() {
 
       
       <div className="text-white font-bold text-xl">
-        Web Developer <span className="text-[#cf1247]">/</span>
+        Boluwatife <span className="text-[#cf1247]">/</span>
       </div>
 
       

@@ -16,7 +16,7 @@ export const metadata = {
   openGraph: {
     title: "Asokere Success Boluwatife — Frontend Developer",
     description: "Frontend developer specialising in React and Next.js.",
-    url: "https://yourportfolio.com",
+    url: "https://asokere-boluwatife.vercel.app/",
     siteName: "Success Boluwatife",
     images: [{ url: "/og-image.png", width: 1200, height: 630 }],
     type: "website",
