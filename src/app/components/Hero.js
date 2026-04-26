@@ -115,7 +115,7 @@ const Hero = () => {
         >
           <div className="absolute inset-0 overflow-hidden rounded-sm">
             <Image
-              src="/Boluwatife.png"
+              src="/Boluwatife.jpg"
               alt="Asokere Success Boluwatife"
               fill
               priority
