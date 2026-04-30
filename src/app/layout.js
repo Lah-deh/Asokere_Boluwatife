@@ -8,7 +8,7 @@ const spaceGrotesk = Space_Grotesk({
 
 
 export const metadata = {
-  title: "Asokere Success Boluwatife — Frontend Developer",
+  title: "Asokere Success Boluwatife - Frontend Developer",
   description:
     "Frontend developer specialising in React and Next.js. Available for remote roles",
   keywords: ["frontend developer", "React", "Next.js", "Nigeria", "remote"],
