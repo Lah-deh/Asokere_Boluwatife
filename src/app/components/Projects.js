@@ -15,6 +15,14 @@ const projects = [
     tag: "Freelance",
   },
   {
+    title: "Job Tracker",
+    description: "Built a full stack job application tracker with Next.js, Supabase, Tailwind and real time CRUD functionality.",
+    tech: ["Next.js", "Supabase", "Tailwind CSS"],
+    live: "https://job-tracker-ow8x.vercel.app/",
+    github: "https://github.com/Lah-deh/JobTracker",
+    tag: "Project",
+  },
+  {
     title: "PhisGuard",
     description:
       "Anti-phishing Chrome extension that surfaces real-time alerts in the browser, integrated with a backend detection API.",
