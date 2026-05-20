@@ -17,7 +17,7 @@ const experiences = [
     date: "Mar 2026 – Apr 2026",
     points: [
       "Built the full e-commerce storefront with Next.js and Tailwind CSS.",
-      "Implemented SEO best practices — semantic HTML, metadata, Open Graph.",
+      "Implemented SEO best practices,semantic HTML, metadata, Open Graph.",
       "Structured reusable components so client can scale without a dev.",
     ],
   },

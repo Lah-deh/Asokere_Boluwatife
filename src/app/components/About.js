@@ -24,7 +24,7 @@ const About = () => {
         <p className="text-gray-400 text-sm sm:text-base leading-relaxed mb-8">
           I care about clean component architecture, performance, and interfaces
           that work for real users. Open to remote frontend roles and freelance
-          projects where I can contribute from day one.
+          projects where I can contribute.
         </p>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">

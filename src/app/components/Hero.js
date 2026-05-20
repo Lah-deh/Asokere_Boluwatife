@@ -120,7 +120,7 @@ const Hero = () => {
               fill
               priority
               className="object-cover"
-
+              
             />
           </div>
         </motion.div>
