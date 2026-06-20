@@ -15,6 +15,15 @@ const projects = [
     tag: "Freelance",
   },
   {
+    title:"SafeGrid",
+    description:
+    " A real time incident reporting and tracking platform using React and Leaflet.js for live map visualization",
+    tech: ["React", "Leaflet.js", "Supabase"],
+    live: "https://smart-grid-mcdho68mf-boluwatifes.vercel.app/",
+    github: "https://github.com/Lah-deh/SmartGrid",
+    tag: "Project", 
+  },
+  {
     title: "Job Tracker",
     description: "Built a full stack job application tracker with Next.js, Supabase, Tailwind and real time CRUD functionality.",
     tech: ["Next.js", "Supabase", "Tailwind CSS"],

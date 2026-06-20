@@ -14,7 +14,7 @@ export const metadata = {
   keywords: ["frontend developer", "React", "Next.js", "Nigeria", "remote"],
   authors: [{ name: "Asokere Success Boluwatife" }],
   openGraph: {
-    title: "Asokere Success Boluwatife — Frontend Developer",
+    title: "Asokere Success Boluwatife - Frontend Developer",
     description: "Frontend developer specialising in React and Next.js.",
     url: "https://asokere-boluwatife.vercel.app/",
     siteName: "Success Boluwatife",
