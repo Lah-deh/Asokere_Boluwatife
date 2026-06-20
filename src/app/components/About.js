@@ -29,7 +29,7 @@ const About = () => {
 
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
           {[
-            { label: "Projects Shipped", value: "4+" },
+            { label: "Projects Shipped", value: "5+" },
             { label: "Stack", value: "React / Next.js" },
             { label: "Status", value: "Open to Work ✓" },
           ].map((item, i) => (
