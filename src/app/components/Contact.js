@@ -17,8 +17,8 @@ const socials = [
   },
   {
     label: "Twitter / X",
-    value: "@Tifecodes",
-    href: "https://x.com/Tifecodes",
+    value: "@BuildwithTifee",
+    href: "https://x.com/BuildwithTifee",
     icon: <FiTwitter size={18} />,
   },
 ]
