@@ -1,4 +1,3 @@
-```tsx
 "use client"
 
 import { motion } from "framer-motion"
@@ -96,7 +95,6 @@ const Experience = () => {
                     <span className="text-[#cf1247] mt-1 shrink-0">
                       ▸
                     </span>
-
                     {point}
                   </li>
                 ))}
@@ -110,3 +108,4 @@ const Experience = () => {
 }
 
 export default Experience
+
