@@ -96,12 +96,13 @@ const Hero = () => {
               Contact Me
             </a>
 
-            <a
-              href="/Asokere_Success_Cv.pdf"
-              download
+            <a 
+              href="https://docs.google.com/document/d/1lt8pVgjI7I3TGCHryC671XJO9cjmeS5xX1Lxsi8fFNw/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
               className="col-span-2 lg:col-span-1 flex items-center justify-center gap-2 border border-white/20 text-gray-400 font-bold px-4 py-2.5 rounded-full text-sm hover:border-white/50 hover:text-white transition-colors"
             >
-              <FiDownload size={14} /> Download CV
+              <FiDownload size={14} /> View CV 
             </a>
 
           </div>
